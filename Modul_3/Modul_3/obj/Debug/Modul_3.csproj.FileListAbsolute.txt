@@ -1,0 +1,10 @@
+C:\Users\Samuel\Documents\GitHub\Modul-3---KPL\Modul_3\Modul_3\obj\Debug\Modul_3.csproj.AssemblyReference.cache
+C:\Users\Samuel\Documents\GitHub\Modul-3---KPL\Modul_3\Modul_3\obj\Debug\Modul_3.Form1.resources
+C:\Users\Samuel\Documents\GitHub\Modul-3---KPL\Modul_3\Modul_3\obj\Debug\Modul_3.Properties.Resources.resources
+C:\Users\Samuel\Documents\GitHub\Modul-3---KPL\Modul_3\Modul_3\obj\Debug\Modul_3.csproj.GenerateResource.cache
+C:\Users\Samuel\Documents\GitHub\Modul-3---KPL\Modul_3\Modul_3\obj\Debug\Modul_3.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\GitHub\Modul-3---KPL\Modul_3\Modul_3\bin\Debug\Modul_3.exe.config
+C:\Users\Samuel\Documents\GitHub\Modul-3---KPL\Modul_3\Modul_3\bin\Debug\Modul_3.exe
+C:\Users\Samuel\Documents\GitHub\Modul-3---KPL\Modul_3\Modul_3\bin\Debug\Modul_3.pdb
+C:\Users\Samuel\Documents\GitHub\Modul-3---KPL\Modul_3\Modul_3\obj\Debug\Modul_3.exe
+C:\Users\Samuel\Documents\GitHub\Modul-3---KPL\Modul_3\Modul_3\obj\Debug\Modul_3.pdb
